@@ -1,13 +1,17 @@
-## Olá! eu sou a Thabata Vitoria
-
 <div>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=556B98&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1!+Eu+sou+a+Thabata;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
   <a href="https://github.com/Thabata356"/>
 </div>
+
+<br><br>
 <div align="center">
-  <img width="390" height="250" src="https://github-readme-stats.vercel.app/api?username=Thabata356&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=556b2f&text_color=556b2f&icon_color=6b8e23&border_color=556b2f" alt="GitHub Stats" />
-  <img width="296" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabata356&layout=compact&bg_color=ffffff&title_color=556b2f&text_color=556b2f&icon_color=6b8e23&border_color=556b2f" alt="Top Languages" />
+  <img width="390" height="250" src="https://github-readme-stats.vercel.app/api?username=Thabata356&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=556b98&text_color=556b98&icon_color=7a9cd4&border_color=556b98" alt="GitHub Stats" />
+  <img width="296" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabata356&layout=compact&bg_color=ffffff&title_color=556b98&text_color=556b98&icon_color=7a9cd4&border_color=556b98" alt="Top Languages" />
 </div>
 
+<br><br>
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,11 +27,15 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
+<br><br>
 <div align="center" style="margin-top: 40px;">
-  <a href="mailto:seuemail@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-556b2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
+  <a href="thabatav7@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-556b98?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
   </a>
-  <a href="https://discord.com/users/seuID" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-556b2f?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" />
+  <a href="https://discord.com/users/123456789012345678" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-556b98?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" />
   </a>
 </div>
+
+<br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thabata356&bg_color=ffffff&color=556b98&line=556b98&point=454040&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
