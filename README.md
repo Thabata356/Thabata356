@@ -7,7 +7,7 @@
 
 <br><br>
 <div align="center">
-  <img width="390" height="250" src="https://github-readme-stats.vercel.app/api?username=Thabata356&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=556b98&text_color=556b98&icon_color=7a9cd4&border_color=556b98" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Thabata356&show_icons=true&count_private=true&bg_color=ffffff&title_color=556b98&text_color=556b98&icon_color=7a9cd4&border_color=556b98"  alt="GitHub Stats" style="margin: 0 auto;" />
   <img width="296" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabata356&layout=compact&bg_color=ffffff&title_color=556b98&text_color=556b98&icon_color=7a9cd4&border_color=556b98" alt="Top Languages" />
 </div>
 
